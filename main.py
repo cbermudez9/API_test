@@ -1,0 +1,4 @@
+import datos
+
+datos.alives()
+
